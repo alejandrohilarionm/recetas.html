@@ -1,0 +1,33 @@
+** start of index.html **
+
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <title>Huevos al ángel</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Huevos al Ángel</h1>
+    <p>Los huevos al ángel son una receta que combina ingredientes de la región cafetera colombiana como lo son el platano, el chorizo santarrosano y el tipico hogao o guiso de tomate y cebolla. Una receta que creamos en nuestra Finca Hotel y que le ha encantado a nuestros clientes.</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 huevos</li>
+      <li> Un tomate</li>
+      <li>Una cebolla</li>
+      <li>Un platano maduro</li>
+      <li>Un chorizo santa rossano en trocitos</li>
+       </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Batir 2 huevos en un recipiente</li>
+      <li>Cortar la cebolla y el tomate y sofreir un poco con sal</li>
+      <li>Cortar el chorizo santarrosano en pedazos pequeños y sofreir en un poco de aceite de oliva</li>
+      <li>Hacemos lo mismo con el platano maduro, lo cortamos en trocitos y sofreimos</li>
+      <li> Por último emplatamos con arepa colombiana, chocolate caliente y queso como se come en la región. 
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg " alt="Huevos al angel, un platillo creado por Álvaro Ramírez en Finca Hotel el Angel"
+  </body>
+  </html>
+
+** end of index.html **
+
